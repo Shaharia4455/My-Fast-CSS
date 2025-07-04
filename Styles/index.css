@@ -26,6 +26,14 @@ h2{
     text-decoration: overline;
     margin-top: 90px;
 }
+.git{
+    text-align: center;
+}
+li{
+    color: red;
+    text-decoration: none;
+}
+
 .blog{
     font-family: 'Courier New', Courier, monospace;
     text-decoration: none;
